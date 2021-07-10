@@ -1,2 +1,2 @@
 # Ejercicio-p4
-Ejercicio realizado de la semana 5
+Ejercicio realizado de la quinta semana de POO
